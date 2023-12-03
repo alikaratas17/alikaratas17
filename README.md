@@ -1,5 +1,5 @@
-### Hi there 👋
-Currently working on updating each of my repositories' README files.
+### Hi there, I am Ali 👋
+Currently working on updating my repositories as well as my github profile.
 <!--
 **alikaratas17/alikaratas17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikaratas17)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikaratas17&layout=pie&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats) Hiding jupyter notebook
