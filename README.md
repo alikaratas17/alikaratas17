@@ -31,8 +31,28 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikaratas17&layout=pie&hide=Jupyter%20Notebook,ShaderLab,GLSL,CMake,Swift,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Course Taken During Computer Engineering Bachelor and Their Projects
-- COMP []:
-
-- ## Course Taken During Electrical and Electronics Engineering Bachelor and Their Projects
-- ELEC []:
+## Relevant Courses Taken During My Bachelor Studies and Their Projects
+- COMP 132: Advanced Programming
+- COMP 200: Structure & Interpretation of Computer Programs 
+- COMP 202: Data Structures and Algorithms
+- COMP 201: Computer Systems and Programming 
+- COMP 301: Programming Language Concepts
+- COMP 302: Software Engineering
+- COMP 304: Operating Systems
+- COMP 341: Introduction to Artificial Intelligence 
+- ENGR 421: Introduction to Machine Learning 
+- COMP 305: Algorithms and Complexity
+- COMP 450: Selected Topics: Reinforcement Learning 
+- COMP 441: Deep Learning 
+- COMP 429: Parallel Programming 
+- COMP 443: Modern Cryptography
+- COMP 306: Database Management Systems
+- COMP 442: Natural Language Processing
+- COMP 447: Deep Unsupervised Learning
+- ENGR 429: Makerspace for Engineers
+- COMP 410: Computer Graphics
+- COMP 434: Computer and Network Security
+- COMP 430: Data Privacy and Security
+- ELEC 317: Embedded Systems 
+- COMP 491: Computer Engineering Senior Design
+- ELEC 491: Electrical and Electronics Engineering Senior Design
